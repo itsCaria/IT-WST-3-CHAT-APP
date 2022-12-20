@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsCaria/IT-WST-3-2-CHAT-APP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itsCaria/IT-WST-3-2-CHAT-APP/issues"
+  },
+  "homepage": "https://github.com/itsCaria/IT-WST-3-2-CHAT-APP#readme"
 }
